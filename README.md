@@ -2,7 +2,7 @@
 
 ---
 
-## *Welcome to my loan qualifier machine learning models. T Feel free to explore my codebase!* 
+## *Welcome to my loan qualifier machine learning models. Feel free to explore my codebase!* 
 
 ---
 
@@ -16,4 +16,3 @@
 ## Report
 
 [Programs](Starter_Code/Resources/report_template.md)
-
